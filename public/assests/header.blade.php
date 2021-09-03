@@ -40,7 +40,7 @@
     <link rel="stylesheet" href="{{asset('assests/site/js/slider/css/preview.css')}}" />
     <link rel="stylesheet" href="{{asset('assests/site/js/slider/css/style.css')}}" />
 
-    <title>Seven | Imóbiliaria</title>
+    <title> Barber | Imóbiliaria</title>
 </head>
 <body>
     <header>

@@ -30,7 +30,7 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Barber | Canvas</title>
+	<title> Barber </title>
 
 	<style>
 		/* Page Loading Style */
@@ -69,13 +69,13 @@
 
 							<ul class="menu-container one-page-menu" data-easing="easeInOutExpo" data-speed="1300" data-offset="60">
 								<li class="menu-item active"><a class="menu-link" href="#" data-href="#wrapper">Home</a></li>
-								<li class="menu-item"><a class="menu-link" href="#" data-offset="56" data-href="#service">Service</a></li>
-								<li class="menu-item"><a class="menu-link" href="#" data-href="#price">Price</a></li>
-								<li class="menu-item"><a class="menu-link" href="#" data-href="#shop">Shop</a></li>
-								<li class="menu-item"><a class="menu-link" href="#" data-href="#testimonial">Testimonial</a></li>
-								<li class="menu-item"><a class="menu-link" href="#" data-href="#contact">Contact</a></li>
+								<li class="menu-item"><a class="menu-link" href="#" data-offset="56" data-href="#service">Serviço</a></li>
+								<li class="menu-item"><a class="menu-link" href="#" data-href="#price">Preço</a></li>
+								<li class="menu-item"><a class="menu-link" href="#" data-href="#shop">Comprar</a></li>
+								<li class="menu-item"><a class="menu-link" href="#" data-href="#testimonial">Feedbacks</a></li>
+								<li class="menu-item"><a class="menu-link" href="#" data-href="#contact">Contato</a></li>
 								<li class="menu-item">
-									<a href="#" data-scrollto="#contact" data-offset="62" data-easing="easeInOutExpo" data-speed="1300" class="button button-color reverse"><i class="icon-calendar2"></i> Appoinment</a>
+									<a href="#" data-scrollto="#contact" data-offset="62" data-easing="easeInOutExpo" data-speed="1300" class="button button-color reverse"><i class="icon-calendar2"></i> Agendamento</a>
 								</li>
 							</ul>
 
@@ -101,11 +101,11 @@
 						<nav class="custom-hero-nav">
 							<ul class="one-page-menu" data-easing="easeInOutExpo" data-speed="1300" data-offset="60">
 								<li class="active"><a href="#" data-href="#slider">Home</a></li>
-								<li><a href="#" data-offset="56" data-href="#service">Service</a></li>
-								<li><a href="#" data-href="#price">Price</a></li>
-								<li><a href="#" data-href="#shop">Shop</a></li>
-								<li><a href="#" data-href="#testimonial">Testimonial</a></li>
-								<li><a href="#" data-href="#contact">Contact</a></li>
+								<li><a href="#" data-offset="56" data-href="#service">Serviço</a></li>
+								<li><a href="#" data-href="#price">Preço</a></li>
+								<li><a href="#" data-href="#shop">Comprar</a></li>
+								<li><a href="#" data-href="#testimonial">Feedback</a></li>
+								<li><a href="#" data-href="#contact">Contato</a></li>
 							</ul>
 						</nav>
 					</div>
@@ -117,7 +117,7 @@
 
 				<!-- Slider Appointment Button
 				============================================= -->
-				<a href="#" class="button button-large button-color button-appointment d-none d-lg-block" data-scrollto="#contact" data-offset="62" data-easing="easeInOutExpo" data-speed="1300"><i class="icon-calendar2"></i> Make An Appointment</a>
+				<a href="#" class="button button-large button-color button-appointment d-none d-lg-block" data-scrollto="#contact" data-offset="62" data-easing="easeInOutExpo" data-speed="1300"><i class="icon-calendar2"></i> Faça um Agendamento</a>
 
 				<!-- Slider Social Icons
 				============================================= -->
@@ -160,9 +160,9 @@
 							<div class="col-md-6 col-12 center" style="padding: 0 50px;">
 								<img src="{{ asset('assests/site/css/barber/images/icons/cs.svg') }}" alt="Image" height="60" style="margin-bottom: 20px">
 								<div class="heading-block bottommargin-sm">
-									<h2>About Us</h2>
+									<h2>Sobre nós</h2>
 								</div>
-								<p>Authoritatively communicate world-class alignments before low-risk high-yield growth strategies. Synergistically envisioneer transparent niches after dynamic "outside the box" thinking. Uniquely implement cutting-edge partnerships before synergistic niche markets.</p>
+								<p> A Barber Shop é a barbearia da sua época. Focada em excelência, a Barber conta com tudo que o homem moderno precisa. Um ambiente confortável, descontraído e exclusivamente masculino, com cuidados para todos os estilos de barba e cabelo, além de serviços como massagem, podologia, estética masculina e dia do noivo. Uma barbearia premium, para cuidar do visual, tomar uma cerveja gelada, assistir aos seus esportes favoritos ou jogar uma partida de sinuca.</p>
 								<img src="{{ asset('assests/site/css/barber/images/about/sign.png') }}" alt="Image" width="200">
 							</div>
 							<div class="col-md-3 col-6 d-none d-md-block">
@@ -183,7 +183,7 @@
 						<div class="col-lg-6 center col-padding parallax" style="background-image: url('{{ asset('assests/site/css/barber/images/sections/1.jpg') }}');" data-bottom-top="background-position:0px 100px;" data-top-bottom="background-position:0px -300px;">
 							<div class="vertical-middle dark">
 								<div class="heading-block border-0 center">
-									<h2 class="nott ls0" style="font-size: 54px">How We Do</h2>
+									<h2 class="nott ls0" style="font-size: 54px">Como fazemos</h2>
 								</div>
 							</div>
 						</div>
@@ -199,8 +199,8 @@
 												<a href="#"><img src="{{ asset('assests/site/css/barber/images/icons/scessior.svg') }}" alt="Image"></a>
 											</div>
 											<div class="fbox-content">
-												<h3>Well Trained Barbers</h3>
-												<p>Proactively matrix go forward manufactured products before premium innovation. Collaboratively fashion.</p>
+												<h3>Barbeiros bem treinados</h3>
+												<p>Certificados com toda qualificação necessária para todos os estilos de cabelo e barba.</p>
 											</div>
 										</div>
 									</div>
@@ -210,8 +210,8 @@
 												<a href="#"><img src="{{ asset('assests/site/css/barber/images/icons/moustache.svg') }}" alt="Image"></a>
 											</div>
 											<div class="fbox-content">
-												<h3>10 Years Expirience</h3>
-												<p>Dynamically transition seamless metrics after premium e-business. Phosfluorescently parallel task distinctive.</p>
+												<h3>10 anos de Experiência</h3>
+												<p>Somos uma equipe de barbeiros profissionais que através da marca Barbers Shop , pretendemos construir autoridade em serviços de barbearia na grande vitória. Oferecemos uma grande variedade de serviços e produtos e recebemos nossos clientes em um ambiente aconchegante, climatizado e caracterizado. </p>
 											</div>
 										</div>
 									</div>
@@ -221,8 +221,8 @@
 												<a href="#"><img src="{{ asset('assests/site/css/barber/images/icons/comb.svg') }} " alt="Image"></a>
 											</div>
 											<div class="fbox-content">
-												<h3>Branded Pr0ducts</h3>
-												<p>Distinctively initiate alternative information with bricks-and-clicks e-commerce. Quickly evolve superior.</p>
+												<h3>Produtos de Marca</h3>
+												<p>Trabalhamos com os melhores do produtos de excelência de barbearia. </p>
 											</div>
 										</div>
 									</div>
@@ -232,8 +232,8 @@
 												<a href="#"><img src="{{ asset('assests/site/css/barber/images/icons/time.svg') }}" alt="Image"></a>
 											</div>
 											<div class="fbox-content">
-												<h3>Great Location</h3>
-												<p>Holisticly fashion cooperative ROI without unique intellectual capital. Synergistically engage orthogonal.</p>
+												<h3>ótima localização</h3>
+												<p>Estamos localizado em um ótimo ponto, de fácil acesso.</p>
 											</div>
 										</div>
 									</div>
@@ -243,8 +243,8 @@
 												<a href="#"><img src="{{ asset('assests/site/css/barber/images/icons/drier1.svg') }}" alt="Image"></a>
 											</div>
 											<div class="fbox-content">
-												<h3>Customer Service</h3>
-												<p>Monotonectally evisculate high standards in best practices before exceptional web-readiness. Competently.</p>
+												<h3>serviços customizados</h3>
+												<p>Além de muitos estilos de cortes de cabelos e barba, também temos outros serviços como massagem, podologia, estética masculina e dia do noivo.</p>
 											</div>
 										</div>
 									</div>
@@ -262,12 +262,14 @@
 							<div class="col-md-4 center bottommargin-lg">
 								<div class="feature-box media-box">
 									<div class="fbox-media" style="padding: 0 40px;">
-										<a href="#"><img class="rounded-circle img-thumbnail" src="{{ asset('assests/site/css/barber/images/features/shave.jpg') }}" alt="Why choose Us?"><span>Shave</span><div class="sale-flash badge bg-warning text-dark py-2 px-3 rounded-0">-30% OFF*</div></a>
+										<a href="#"><img class="rounded-circle img-thumbnail" src="{{ asset('assests/site/css/barber/images/features/shave.jpg') }}" alt="Why choose Us?"><span>Barbear</span><div class="sale-flash badge bg-warning text-dark py-2 px-3 rounded-0">-30% OFF*</div></a>
 									</div>
 									<div class="fbox-content">
-										<h3><span class="ls0 subtitle font-primary">Your Property in Good Hands.</span></h3>
-										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi rem, facilis nobis voluptatum est voluptatem accusamus molestiae eaque perspiciatis mollitia.</p>
-										<a href="#" class="more-link text-uppercase ls1 fw-bold" style="margin: 20px 0 0 0; font-style: normal;">Read More</a>
+										<h3><span class="ls0 subtitle font-primary">Sua barba em ótimas mãos.</span></h3>
+										<p>O mais perfeito ritual de barbear. Tradicional toalha quente, óleo e espuma QOD, seguido de navalha e aplicação de loção pós-barba.
+
+										</br>Tempo: Aprox. 35 minutos</p>
+										<a href="#" class="more-link text-uppercase ls1 fw-bold" style="margin: 20px 0 0 0; font-style: normal;">Saiba mais</a>
 									</div>
 								</div>
 							</div>
@@ -277,12 +279,14 @@
 							<div class="col-md-4 center bottommargin-lg">
 								<div class="feature-box media-box">
 									<div class="fbox-media" style="padding: 0 40px;">
-										<a href="#"><img class="rounded-circle img-thumbnail" src="{{ asset('assests/site/css/barber/images/features/haircut.jpg') }}" alt="Effective Planning"><span>Haircut</span></a>
+										<a href="#"><img class="rounded-circle img-thumbnail" src="{{ asset('assests/site/css/barber/images/features/haircut.jpg') }}" alt="Effective Planning"><span>Corte de Cabelo</span></a>
 									</div>
 									<div class="fbox-content">
-										<h3><span class="ls0 subtitle font-primary">Construction Process Organized.</span></h3>
-										<p>Porro repellat vero sapiente amet vitae quibusdam necessitatibus consectetur, labore totam. Accusamus perspiciatis asperiores labore esse.</p>
-										<a href="#" class="more-link text-uppercase ls1 fw-bold" style="margin: 20px 0 0 0; font-style: normal;">Read More</a>
+										<h3><span class="ls0 subtitle font-primary">Processo de corte organizado.</span></h3>
+										<p>Corte de cabelo no estilo clássico, simétrico com linhas precisas e limpas, ou do seu jeito preferido. Além disso, os fios são lavados com o shampoo QBS ideal e finalizados com pomadas QBS de acordo com seu estilo.
+
+										</br>Tempo: Aprox. 45 minutos</p>
+										<a href="#" class="more-link text-uppercase ls1 fw-bold" style="margin: 20px 0 0 0; font-style: normal;">Saiba mais</a>
 									</div>
 								</div>
 							</div>
@@ -292,12 +296,14 @@
 							<div class="col-md-4 center bottommargin-lg">
 								<div class="feature-box media-box">
 									<div class="fbox-media" style="padding: 0 40px;">
-										<a href="#"><img class="rounded-circle img-thumbnail" src="{{ asset('assests/site/css/barber/images/features/hairwash.jpg') }}" alt="Why choose Us?"><span>Hairwash</span></a>
+										<a href="#"><img class="rounded-circle img-thumbnail" src="{{ asset('assests/site/css/barber/images/features/hairwash.jpg') }}" alt="Why choose Us?"><span>Lavagem de Cabelo</span></a>
 									</div>
 									<div class="fbox-content">
-										<h3><span class="ls0 subtitle font-primary">We have got you Covered.</span></h3>
-										<p>Quos, non, esse eligendi ab accusantium voluptatem. Maxime eligendi beatae, atque tempora ullam. Vitae delectus quia, consequuntur rerum quo.</p>
-										<a href="#" class="more-link text-uppercase ls1 fw-bold" style="margin: 20px 0 0 0; font-style: normal;">Read More</a>
+										<h3><span class="ls0 subtitle font-primary">Nós temos um excelente preparo.</span></h3>
+										<p>Lavagem de cabelo com produtos de linha profissional, contando também com uma massagem relaxante.
+											
+										</br>Tempo: Aprox. 15 minutos</p>
+										<a href="#" class="more-link text-uppercase ls1 fw-bold" style="margin: 20px 0 0 0; font-style: normal;">Saiba mais</a>
 									</div>
 								</div>
 							</div>
@@ -313,7 +319,7 @@
 				<div class="container bottommargin dark clearfix" style="margin-top: -500px">
 					<div class="heading-block bottommargin-lg center clearfix">
 						<img src="{{ asset('assests/site/css/barber/images/icons/wallet-white.svg') }}" alt="Image" height="40" style="margin-bottom: 20px">
-						<h2>Pricing</h2>
+						<h2>Preços</h2>
 					</div>
 
 					<!-- Price Items
@@ -322,55 +328,27 @@
 						<div class="col-lg-6 price-wrap">
 							<div class="price-header">
 								<div class="price-name">
-									<a href="#" class="color">Haircut</a>
+									<a href="#" class="color">Corte de Cabelo</a>
 								</div>
 								<div class="price-dots">
 									<span class="separator-dots"></span>
 								</div>
-								<div class="price-price">$39</div>
+								<div class="price-price">R$39</div>
 							</div>
-							<p class="price-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p>
+							<p class="price-desc">Corte de cabelo no estilo atual , simétrico com linhas precisas + Lavagem com shampoo QBS ideal e finalizado com pomadas QBS de acordo com seu estilo.</p>
 						</div>
 
 						<div class="col-lg-6 price-wrap">
 							<div class="price-header">
 								<div class="price-name">
-									<a href="#" class="color">HairWash</a>
+									<a href="#" class="color">Lavagem de Cabelo</a>
 								</div>
 								<div class="price-dots">
 									<span class="separator-dots"></span>
 								</div>
-								<div class="price-price">$42</div>
+								<div class="price-price">R$42</div>
 							</div>
-							<p class="price-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p>
-						</div>
-
-						<div class="w-100 clear"></div>
-
-						<div class="col-lg-6 price-wrap">
-							<div class="price-header">
-								<div class="price-name">
-									<a href="#" class="color">Shave</a>
-								</div>
-								<div class="price-dots">
-									<span class="separator-dots"></span>
-								</div>
-								<div class="price-price">$29</div>
-							</div>
-							<p class="price-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p>
-						</div>
-
-						<div class="col-lg-6 price-wrap">
-							<div class="price-header">
-								<div class="price-name">
-									<a href="#" class="color">Hair Colour</a>
-								</div>
-								<div class="price-dots">
-									<span class="separator-dots"></span>
-								</div>
-								<div class="price-price">$17</div>
-							</div>
-							<p class="price-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p>
+							<p class="price-desc">Lavagem com shampoo QBS + Massagem relaxande no couro + pomada QBS. </p>
 						</div>
 
 						<div class="w-100 clear"></div>
@@ -378,27 +356,55 @@
 						<div class="col-lg-6 price-wrap">
 							<div class="price-header">
 								<div class="price-name">
-									<a href="#" class="color">Moustache</a>
+									<a href="#" class="color">Barbear</a>
 								</div>
 								<div class="price-dots">
 									<span class="separator-dots"></span>
 								</div>
-								<div class="price-price">$39</div>
+								<div class="price-price">R$29</div>
 							</div>
-							<p class="price-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p>
+							<p class="price-desc">Tradicional toalha quente, óleo e espuma QOD + aplicação de loção pós-barba.</p>
 						</div>
 
 						<div class="col-lg-6 price-wrap">
 							<div class="price-header">
 								<div class="price-name">
-									<a href="#" class="color">Beard Trim</a>
+									<a href="#" class="color">Pintar Cabelo</a>
 								</div>
 								<div class="price-dots">
 									<span class="separator-dots"></span>
 								</div>
-								<div class="price-price">$42</div>
+								<div class="price-price">R$30</div>
 							</div>
-							<p class="price-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p>
+							<p class="price-desc">Todos os modelos de luzes, mechas e estilos.</p>
+						</div>
+
+						<div class="w-100 clear"></div>
+
+						<div class="col-lg-6 price-wrap">
+							<div class="price-header">
+								<div class="price-name">
+									<a href="#" class="color">Bigode</a>
+								</div>
+								<div class="price-dots">
+									<span class="separator-dots"></span>
+								</div>
+								<div class="price-price">R$39</div>
+							</div>
+							<p class="price-desc">No estilo de sua preferência, com estilo e autenticidade. </p>
+						</div>
+
+						<div class="col-lg-6 price-wrap">
+							<div class="price-header">
+								<div class="price-name">
+									<a href="#" class="color">Sobrancelha</a>
+								</div>
+								<div class="price-dots">
+									<span class="separator-dots"></span>
+								</div>
+								<div class="price-price">R$30</div>
+							</div>
+							<p class="price-desc">Designer da sobrancelha de acordo com seu estilo.</p>
 						</div>
 
 						<div class="w-100 clear"></div>
@@ -411,26 +417,26 @@
 								<div class="price-dots">
 									<span class="separator-dots"></span>
 								</div>
-								<div class="price-price">$29</div>
+								<div class="price-price">R$29</div>
 							</div>
-							<p class="price-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p>
+							<p class="price-desc">Hidratação da pele e pelos (barbar e sombrancelha). </p>
 						</div>
 
 						<div class="col-lg-6 price-wrap">
 							<div class="price-header">
 								<div class="price-name">
-									<a href="#" class="color">Head Massage</a>
+									<a href="#" class="color">Massagem na Cabeça</a>
 								</div>
 								<div class="price-dots">
 									<span class="separator-dots"></span>
 								</div>
-								<div class="price-price">$17</div>
+								<div class="price-price">R$20</div>
 							</div>
-							<p class="price-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt quos harum officia eaque nobis ut.</p>
+							<p class="price-desc">Uma massagem relaxante de 15 minutos no couro cabeludo.</p>
 						</div>
 
 						<div class="col-12 center">
-							<a href="#" class="button button-large button-color d-none d-lg-block "><i class="icon-calendar2"></i> Make An Appointment</a>
+							<a href="#" class="button button-large button-color d-none d-lg-block "><i class="icon-calendar2"></i> Agendamento</a>
 						</div>
 					</div>
 
@@ -443,7 +449,7 @@
 					<div class="container">
 						<div class="heading-block center">
 							<img src="{{ asset('assests/site/css/barber/images/icons/comb3.svg') }}" alt="Image" height="40" style="margin-bottom: 20px">
-							<h2>Shop</h2>
+							<h2>Comprar</h2>
 						</div>
 
 						<div class="row col-mb-50 mb-0">
@@ -456,8 +462,8 @@
 										<a href="#" class="shop-icon"><i class="icon-shopping-cart"></i></a>
 									</div>
 									<div class="product-desc center">
-										<div class="product-price"><ins>$21.49</ins></div>
-										<div class="product-title"><h3><a href="#">Razor</a></h3></div>
+										<div class="product-price"><ins>R$21.49</ins></div>
+										<div class="product-title"><h3><a href="#">Navalha</a></h3></div>
 									</div>
 								</div>
 							</div>
@@ -471,8 +477,8 @@
 										<a href="#" class="shop-icon"><i class="icon-shopping-cart"></i></a>
 									</div>
 									<div class="product-desc center">
-										<div class="product-price"><ins>$12.49</ins></div>
-										<div class="product-title"><h3><a href="#">Shave Brush</a></h3></div>
+										<div class="product-price"><ins>R$12.49</ins></div>
+										<div class="product-title"><h3><a href="#">Escova de Barbear</a></h3></div>
 									</div>
 								</div>
 							</div>
@@ -487,8 +493,8 @@
 										<a href="#" class="shop-icon"><i class="icon-shopping-cart"></i></a>
 									</div>
 									<div class="product-desc center">
-										<div class="product-price"><ins>$21.99</ins></div>
-										<div class="product-title"><h3><a href="#">Beard oil</a></h3></div>
+										<div class="product-price"><ins>R$21.99</ins></div>
+										<div class="product-title"><h3><a href="#">Óleo de Barba</a></h3></div>
 									</div>
 								</div>
 							</div>
@@ -503,15 +509,15 @@
 										<a href="#" class="shop-icon"><i class="icon-shopping-cart"></i></a>
 									</div>
 									<div class="product-desc center">
-										<div class="product-price"><del>$24.99</del> <ins>$19.49</ins></div>
-										<div class="product-title"><h3><a href="#">Hair Brush</a></h3></div>
+										<div class="product-price"><del>R$24.99</del> <ins>R$19.49</ins></div>
+										<div class="product-title"><h3><a href="#">Escova de Cabelo</a></h3></div>
 									</div>
 								</div>
 							</div>
 						</div>
 
 						<div class="center">
-							<a href="#" class="button button-large button-color">+ More Products</a>
+							<a href="#" class="button button-large button-color">+ Mais Produtos</a>
 						</div>
 
 					</div>
@@ -524,7 +530,7 @@
 
 						<div class="heading-block center">
 							<img src="{{ asset('assests/site/css/barber/images/icons/stars.svg') }}" alt="Image" height="50" style="margin-bottom: 20px">
-							<h3 class="ls2">Testimonials</h3>
+							<h3 class="ls2">Feedback</h3>
 						</div>
 
 						<!-- Testimonial Slider
@@ -534,28 +540,28 @@
 								<div class="slider-wrap">
 									<div class="slide">
 										<div class="testi-content">
-											<p>Collaboratively enhance intermandated innovation via cutting-edge core competencies. Professionally extend covalent e-markets and mission-critical communities. Dramatically communicate revolutionary web services for interactive synergy. Synergistically.</p>
+											<p>Um excelente trabalho feito pela Barbers shop, com muita dedicação e excelência de seus barbers. Indico a todos que desejam um momento de  total qualidade.</p>
 											<div class="testi-meta">
-												Steve Jobs
-												<span class="ls0">Apple Inc.</span>
+												Jhonatan Lima
+												<span class="ls0"> TD Inc.</span>
 											</div>
 										</div>
 									</div>
 									<div class="slide">
 										<div class="testi-content">
-											<p>Intrinsicly synergize excellent content whereas user friendly action items. Rapidiously transition multimedia based information after top-line alignments. Proactively e-enable front-end e-commerce without mission-critical customer service.</p>
+											<p>Um momento de relachamento com muita satisfação do trabalho realizado pela equipe Barbers Shop.</p>
 											<div class="testi-meta">
-												Collis Ta'eed
-												<span class="ls0">Envato Inc.</span>
+												João freitas
+												<span class="ls0">AJF Inc.</span>
 											</div>
 										</div>
 									</div>
 									<div class="slide">
 										<div class="testi-content">
-											<p>Compellingly engage multimedia based niche markets via value-added manufactured products. Competently formulate goal-oriented content for installed base users. Uniquely leverage other's granular ROI without 24/365 collaboration and idea-sharing.</p>
+											<p>A qualidade do serviço sempre me surpreende, tanto no quesito profissionais, quanto nos produtos ultilizado para o serviço. Muito satisfeito.</p>
 											<div class="testi-meta">
 												John Doe
-												<span class="ls0">XYZ Inc.</span>
+												<span class="ls0">BORN Inc.</span>
 											</div>
 										</div>
 									</div>
@@ -597,8 +603,8 @@
 
 						<div class="heading-block center">
 							<img src="{{ asset('assests/site/css/barber/images/icons/team.svg') }}" alt="Image" height="50" style="margin-bottom: 20px">
-							<h3 class="ls2">Our Barbers</h3>
-							<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius, esse eum doloremque deleniti nam voluptatem.</span>
+							<h3 class="ls2">Nossos Barbeiros</h3>
+							<span>Profissionais certificados e qualificados com um excelente trabalho.</span>
 						</div>
 
 						<div class="row">
@@ -716,19 +722,18 @@
 
 					<div class="col-lg-6 col-padding" style="background-color: #F9F9F9;">
 						<div>
-							<h3 class="text-uppercase">Our Headquarters</h3>
+							<h3 class="text-uppercase">Nossa Rede</h3>
 							<div class="row topmargin-sm clearfix" style="font-size: 16px; line-height: 1.7;">
 								<div class="col-lg-6">
 									<address style="line-height: 1.7;">
-										<strong>North America:</strong><br>
-										795 Folsom Ave, Suite 600<br>
-										San Francisco, CA 94107<br>
+										<strong>Brasil</strong><br>
+										Folsom Apena, N° 256 Quadra 15<br>
+										São Paulos<br>
 									</address>
 								</div>
 								<div class="col-lg-6">
-									<abbr title="Phone Number"><strong>Phone:</strong></abbr> (1) 8547 632521<br>
-									<abbr title="Fax"><strong>Fax:</strong></abbr> (1) 11 4752 1433<br>
-									<abbr title="Email Address"><strong>Email:</strong></abbr> info@canvas.com
+									<abbr title="Phone Number"><strong>Phone:</strong></abbr> (11) 98596-9632<br>
+									<abbr title="Email Address"><strong>Email:</strong></abbr> barbershop@gmail.com
 								</div>
 							</div>
 
@@ -769,7 +774,7 @@
 										</div>
 
 										<div class="col-12 form-group">
-											<button class="button button-large button-color ms-0 topmargin-sm" type="submit" id="template-contactform-submit" name="template-contactform-submit" value="submit">Send Message</button>
+											<button class="button button-large button-color ms-0 topmargin-sm" type="submit" id="template-contactform-submit" name="template-contactform-submit" value="submit">Enviar Mensagem</button>
 										</div>
 
 										<div class="col-12 form-group d-none">
@@ -789,7 +794,7 @@
 
 				<a href="#" class="button button-full bg-color font-secondary center" style="padding: 60px 0; background-image: url('{{ asset('assests/site/css/barber/images/sections/4.jpg') }}'); background-repeat: no-repeat; background-position: 10% 50%; background-size: cover;">
 					<div class="container clearfix">
-						Book your visit online and save upto <strong>25% Discount</strong> &rarr;
+						Reserve sua visita e ganhe <strong>25% Desconto</strong> &rarr;
 					</div>
 				</a>
 
@@ -840,7 +845,7 @@
 						</a>
 					</div>
 
-					<div class="text-uppercase ls3" style="color: #333; margin-top: 10px">&copy; Canvas Inc. 2021. All Rights Reserved.</div>
+					<div class="text-uppercase ls3" style="color: #333; margin-top: 10px">&copy; ALBERNCAMP Inc. 2021. All Rights Reserved.</div>
 
 				</div>
 
